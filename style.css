@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(124, 184, 124);
+    font-family: monospace;
+    text-align: center
+}
+
+h1{
+    color:rgb(245, 243, 217);
+    
+}
+h3{
+    font-size: 4em
+}
+.large-text{
+        font-size: 2em;
+}
+#smaller-text {
+    
+}
+
+ul li {
+    list-style-position: inside
+}
